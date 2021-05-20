@@ -11,7 +11,7 @@ YOLOv4, YOLOv4-tiny Implemented in Tensorflow 2.0.
 ### What it's about
 Here you got a google colab notebook, where you can train your one Computer Vision Model!
 ```bash
-
+```
 # How so?
 ## yolov4
 Just go to: https://colab.research.google.com/drive/1fPN1f5PDwLPkIXGiyWHKyvBOc1LbezHh?usp=sharing

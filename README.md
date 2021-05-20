@@ -21,7 +21,7 @@ Clone the notebook, and follow the steps!
 #### Here we used a private dataset, it's for a package detection model 
 ###You can use a public dataset from Roboflow, checkout here: Roboflow(https://public.roboflow.com/)
 
-#### Output
+# Output
 
 ##### Yolov4 tiny weight
 <p align="center"><img src="result-darknet.png" width="640"\></p>
